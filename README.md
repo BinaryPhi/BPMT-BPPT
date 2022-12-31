@@ -17,4 +17,4 @@ BinaryPhi Physics Test
 
 | Date | Question PDF | Answer PDF | Detail | Originality |
 | :------: | :------: | :--------: | :----: | :---------: |
-| Dec 2022 | BPPT.pdf | BPPTAns.pdf | Github | `----------` |
+| Jan 2023 | BPPT.pdf | BPPTAns.pdf | Github | `----------` |
